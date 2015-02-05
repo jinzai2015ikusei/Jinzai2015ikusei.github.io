@@ -54,22 +54,22 @@ OpenSpending.Styles.Cofog = {
   '900': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
   '900-901': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
   '1000': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '1000-1001': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1100': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1100-1101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1100-1102': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1100-1103': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1100-1104': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1100-1105': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1100-1106': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1200': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1200-1201': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1300': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1300-1301': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1400': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1400-1401': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1500': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '1500-1501': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '1000-1001': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1100': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1100-1101': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1100-1102': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1100-1103': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1100-1104': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1100-1105': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1100-1106': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1200': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1200-1201': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1300': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1300-1301': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1400': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1400-1401': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1500': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
+  '1500-1501': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
 
 };
 

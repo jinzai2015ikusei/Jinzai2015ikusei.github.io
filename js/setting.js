@@ -18,11 +18,11 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* yokohama cofog */
-  '100': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '101': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '200': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
+  '100': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#935B3B' },
+  '101': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#935B3B' },
+  '200': { icon: 'icons/other-medical.svg', color: '#C75746', bcolor: '#0AB971' },
   '201': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '202': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
+  '202': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#0AB971' },
   '203': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
   '204': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
   '205': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
